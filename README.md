@@ -12,10 +12,11 @@ by Sarah Leder
  
 ### Additional Credits
 
-YouTube resource: https://www.youtube.com/watch?v=Rh3tobg7hEo
+YouTube resources: 
+https://www.youtube.com/watch?v=Rh3tobg7hEo
+https://www.youtube.com/watch?v=SLfhMt5OUPI
 
 ### Usage Information
-https://pwa-text-editor-1bi6.onrender.com/
 
 
 ### Contact
