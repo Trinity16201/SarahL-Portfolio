@@ -60,6 +60,20 @@ body {
   background-color: #f2e9e4;
 }
 
+.madeBy {
+font-size: 20px;
+color: #22223b;
+}
+
+.logo {
+  color: #22223b;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  padding: .25rem;
+}
+
+
 /* body {
   margin: 0;
   display: flex;
