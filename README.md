@@ -11,7 +11,7 @@ by Sarah Leder
 
  
 ### Additional Credits
-
+W3 Schools, Coolors website
 YouTube resources: 
 https://www.youtube.com/watch?v=Rh3tobg7hEo
 https://www.youtube.com/watch?v=SLfhMt5OUPI
