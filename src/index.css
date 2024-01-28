@@ -2,7 +2,7 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
+  padding: 3%;
   color: #22223b;
   background-color: #f2e9e4;
 
@@ -20,7 +20,7 @@ body {
   margin: 0;
 }
 
-.nav {
+.nav-item {
   background-color: #22223b;
   color: #f2e9e4;
   display: flex;
@@ -28,13 +28,14 @@ body {
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  font-size: 20px;
 }
 
-.home-page {
+/* .home-page {
   font-size: 2rem;
-}
+} */
 
-.nav ul {
+.nav-item ul {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -42,13 +43,13 @@ body {
   gap: 1rem;
 }
 
-.nav a {
+.nav-item a {
   color: inherit;
   text-decoration: none;
   height: 100%;
   display: flex;
   align-items: center;
-  padding: .25rem;
+  padding: .5rem;
 }
 
 .nav li.active {
@@ -59,7 +60,10 @@ body {
   color: #4a4e69;
   background-color: #f2e9e4;
 }
-
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
 .madeBy {
 font-size: 20px;
 color: #22223b;
@@ -73,7 +77,25 @@ color: #22223b;
   padding: .25rem;
 }
 
+.my-pic {
+  width: 40%;
+  float: left;
+  margin: 5%;
+  border-radius: 35px;
+}
 
+.details {
+  border-style: ridge;
+  border-color: #22223b;
+  border-radius: 2%;
+  border-width: thick;
+  display: flex;
+  padding: 2%;
+  font-size: 30px;
+  border-radius: 35px;
+  /* margin: 2%; */
+  /* padding: 30% */
+}
 /* body {
   margin: 0;
   display: flex;
@@ -110,9 +132,6 @@ button:focus-visible {
   :root {
     color: #213547;
     background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
   }
   button {
     background-color: #f9f9f9;
