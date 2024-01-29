@@ -1,3 +1,4 @@
-// export default function Contact() {
-//     return <h1>Contact</h1>
-// }
+export default function Contact() {
+    return <h1>Contact Me</h1>
+    
+}
