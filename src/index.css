@@ -23,23 +23,19 @@ body {
 .nav-item {
   background-color: #22223b;
   color: #f2e9e4;
-  display: flex;
+  display: block;
   justify-content: space-between;
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
   font-size: 20px;
+  float: right;
 }
-
-/* .home-page {
-  font-size: 2rem;
-} */
 
 .nav-item ul {
   padding: 0;
   margin: 0;
   list-style: none;
-  display: flex;
   gap: 1rem;
 }
 
@@ -57,8 +53,8 @@ body {
 }
 
 .nav li:hover {
-  color: #4a4e69;
-  background-color: #f2e9e4;
+  color: #22223b;
+  background-color: #9a8c98;
 }
 h1 {
   text-align: center;
@@ -94,8 +90,6 @@ color: #22223b;
   padding: 2%;
   font-size: 25px;
   border-radius: 35px;
-  /* margin: 2%; */
-  /* padding: 30% */
 }
 
 button {
@@ -108,4 +102,13 @@ button {
 button:hover {
   color: #4a4e69;
   background-color: #f2e9e4;
+}
+.column {
+  border-color: #22223b;
+  padding: 2%;
+}
+
+.portfolio-pic {
+  border-radius: 2%;
+ 
 }
