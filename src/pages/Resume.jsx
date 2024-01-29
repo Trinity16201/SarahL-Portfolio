@@ -1,3 +1,10 @@
-// export default function Resume() {
-//     return <h1>Resume</h1>
-// }
+import Resume from '../assets/ResumePDF.pdf'
+
+export default function ResumePage() {
+    <>
+    return <h1>Resume</h1>
+    <a href= {Resume} download="Resume" target='_blank'>
+        <button>Dowload Resume</button>
+    </a>
+    </>
+}
