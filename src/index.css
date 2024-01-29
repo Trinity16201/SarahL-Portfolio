@@ -71,7 +71,7 @@ color: #22223b;
   list-style: none;
   display: flex;
   align-items: center;
-  padding: .25rem;
+  padding: .20rem;
 }
 
 .my-pic {
@@ -97,6 +97,7 @@ button {
   color: #f2e9e4;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 5px;
 }
 
 button:hover {

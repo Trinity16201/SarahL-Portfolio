@@ -25,7 +25,7 @@ export default function Portfolio() {
       <div className="column">
         <div className="card">
           <h2>Nerdmazon </h2>
-          <img className="portfolio-pic" src="/Doctor-who-hat.jpg" />
+          <img className="portfolio-pic" src="/Nerdmazon.JPG" />
           <p>
             {" "}
             Experience shopping with only products to meet your Nerdy needs.
