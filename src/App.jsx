@@ -1,7 +1,7 @@
-import { Outlet } from 'react-router-dom';
-import Nav from '/components/Nav';
-import './index.css';
-import Footer from './pages/Footer'
+import { Outlet } from "react-router-dom";
+import Nav from "/components/Nav";
+import "./index.css";
+import Footer from "./pages/Footer";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <main className="mx-3">
         <Outlet />
       </main>
-      <Footer/>
+      <Footer />
     </>
   );
 }

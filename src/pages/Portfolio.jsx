@@ -15,10 +15,12 @@ export default function Portfolio() {
             superhero, this quiz is sure to provide you with an entertaining
             experience.
           </p>
-          {/* <a href="https://marrasmith.github.io/Marvel-Heroes-Personality-Quiz/"</a> */}
-          <button>Website</button>
-          {/* <a href="https://github.com/MArrasmith/Marvel-Heroes-Personality-Quiz.git"</a> */}
-          <button>Github</button>
+          <a href="https://marrasmith.github.io/Marvel-Heroes-Personality-Quiz/">
+            <button>Website</button>
+          </a>
+          <a href="https://github.com/MArrasmith/Marvel-Heroes-Personality-Quiz.git">
+            <button>Github</button>
+          </a>
         </div>
       </div>
 
@@ -31,10 +33,12 @@ export default function Portfolio() {
             Experience shopping with only products to meet your Nerdy needs.
             Browse your favorite shows, movies, games, and coding gear.
           </p>
-          {/* <a href="https://cryptic-castle-11006-b2c2b99712fd.herokuapp.com"</a> */}
-          <button>Website</button>
-          {/* <a href="https://github.com/Trinity16201/Nerdmazon.git"</a> */}
-          <button>Github</button>
+          <a href="https://cryptic-castle-11006-b2c2b99712fd.herokuapp.com">
+            <button>Website</button>
+          </a>
+          <a href="https://github.com/Trinity16201/Nerdmazon.git">
+            <button>Github</button>
+          </a>
         </div>
       </div>
       <div className="column">
@@ -48,10 +52,12 @@ export default function Portfolio() {
             to show if the current time is before, during, or after the hour.
             You can aslo delete events as needed.
           </p>
-          {/* <a href="https://trinity16201.github.io/Create-Calendar/"</a> */}
-          <button>Website</button>
-          {/* <a href="https://github.com/Trinity16201/Create-Calendar.git"</a> */}
-          <button>Github</button>
+          <a href="https://trinity16201.github.io/Create-Calendar/">
+            <button>Website</button>
+          </a>
+          <a href="https://github.com/Trinity16201/Create-Calendar.git">
+            <button>Github</button>
+          </a>
         </div>
         <div className="card">
           <h2>Password Generator </h2>
@@ -61,10 +67,12 @@ export default function Portfolio() {
             Create your own unique password by using this password generator
             application.
           </p>
-          {/* <a href="https://trinity16201.github.io/Password-Generator/"</a> */}
-          <button>Website</button>
-          {/* <a href="https://github.com/Trinity16201/Password-Generator.git"</a> */}
-          <button>Github</button>
+          <a href="https://trinity16201.github.io/Password-Generator/">
+            <button>Website</button>
+          </a>
+          <a href="https://github.com/Trinity16201/Password-Generator.git">
+            <button>Github</button>
+          </a>
         </div>
       </div>
       <div className="column">
@@ -76,24 +84,29 @@ export default function Portfolio() {
             Utilizing an API, this application looks up current weather
             information and a 5 day forcast for your area.
           </p>
-          {/* <a href="https://trinity16201.github.io/Weather-Dash/"</a> */}
-          <button>Website</button>
-          {/* <a href="https://github.com/Trinity16201/Weather-Dash.git"</a> */}
-          <button>Github</button>
+          <a href="https://trinity16201.github.io/Weather-Dash/">
+            <button>Website</button>
+          </a>
+          <a href="https://github.com/Trinity16201/Weather-Dash.git">
+            <button>Github</button>
+          </a>
         </div>
       </div>
       <div className="column">
         <div className="card">
-        <h2>My first portfolio</h2>
+          <h2>My first portfolio</h2>
           <img className="portfolio-pic" src="/First-Portfolio.JPG" />
           <p>
             {" "}
-            This page was the first portfolio I created early on in my development process. 
+            This page was the first portfolio I created early on in my
+            development process.
           </p>
-          {/* <a href="https://trinity16201.github.io/Personal-Portfolio/"</a> */}
-          <button>Website</button>
-          {/* <a href="https://github.com/Trinity16201/Personal-Portfolio.git"</a> */}
-          <button>Github</button>
+          <a href="https://trinity16201.github.io/Personal-Portfolio/">
+            <button>Website</button>
+          </a>
+          <a href="https://github.com/Trinity16201/Personal-Portfolio.git">
+            <button>Github</button>
+          </a>
         </div>
       </div>
     </div>
