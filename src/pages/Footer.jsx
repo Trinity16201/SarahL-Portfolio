@@ -5,7 +5,7 @@ import { FaFacebook } from "react-icons/fa";
 
 function Footer(){
     return (
-        <footer>
+        <footer className="footer">
             <h2 className="madeBy">Created by Sarah Leder©</h2>
             <p>
                 <ul>
