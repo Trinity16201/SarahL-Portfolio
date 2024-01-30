@@ -66,6 +66,7 @@ function Contact() {
           />
                     <label for="contact-message">Message</label>
                     <textarea
+                    className="message"
                       value={message}
                       name="message"
                       onChange={handleInputChange}
