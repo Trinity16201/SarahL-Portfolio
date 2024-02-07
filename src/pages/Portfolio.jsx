@@ -24,7 +24,7 @@ export default function Portfolio() {
         </div>
       </div>
 
-      <div className="column">
+      {/* <div className="column">
         <div className="card">
           <h2>Nerdmazon </h2>
           <img className="portfolio-pic" src="/Nerdmazon.JPG" />
@@ -40,7 +40,7 @@ export default function Portfolio() {
             <button>Github</button>
           </a>
         </div>
-      </div>
+      </div> */}
       <div className="column">
         <div className="card">
           <h2>Work Day Scheduler </h2>
